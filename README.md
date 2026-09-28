@@ -4,8 +4,6 @@ Aplicação Mobile simples do FITID, criada para a atividade de PAM II com React
 
 ## Estrutura
 
-A estrutura segue o padrão trabalhado no projeto Eureca:
-
 - `app/`: telas e rotas do Expo Router;
 - `app/(auth)/`: telas protegidas;
 - `components/`: componentes reutilizáveis;
@@ -26,7 +24,7 @@ A estrutura segue o padrão trabalhado no projeto Eureca:
 - tela de perfil;
 - tela Sobre com objetivo, funcionalidades e integrantes.
 
-O Mobile foi mantido propositalmente simples nesta etapa. A ligação de treino e histórico ao MySQL atual fica para a integração futura do aluno com o banco principal.
+O Mobile foi mantido  simples nesta etapa. A ligação de treino e histórico ao MySQL atual fica para a integração futura do aluno com o banco principal.
 
 ## Estilização
 
